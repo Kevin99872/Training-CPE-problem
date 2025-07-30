@@ -1,0 +1,3 @@
+D:/code-preview/CPE C++/CPE22801-UVA12019/cmake-build-debug/CMakeFiles/CPE22801_UVA12019.dir
+D:/code-preview/CPE C++/CPE22801-UVA12019/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code-preview/CPE C++/CPE22801-UVA12019/cmake-build-debug/CMakeFiles/rebuild_cache.dir

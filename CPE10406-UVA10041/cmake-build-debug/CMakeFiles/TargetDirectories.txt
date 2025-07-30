@@ -1,0 +1,3 @@
+D:/code preview/CPE C++/CPE10406-UVA10041/cmake-build-debug/CMakeFiles/CPE10406_UVA10041.dir
+D:/code preview/CPE C++/CPE10406-UVA10041/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code preview/CPE C++/CPE10406-UVA10041/cmake-build-debug/CMakeFiles/rebuild_cache.dir

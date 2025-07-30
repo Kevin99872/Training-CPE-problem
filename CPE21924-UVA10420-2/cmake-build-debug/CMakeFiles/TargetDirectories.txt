@@ -1,0 +1,3 @@
+D:/code preview/CPE C++/CPE21924-UVA10420-2/cmake-build-debug/CMakeFiles/CPE21924_UVA10420_2.dir
+D:/code preview/CPE C++/CPE21924-UVA10420-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code preview/CPE C++/CPE21924-UVA10420-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

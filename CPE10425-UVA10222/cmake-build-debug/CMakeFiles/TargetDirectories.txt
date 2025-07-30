@@ -1,0 +1,3 @@
+D:/code-preview/CPE C++/CPE10425-UVA10222/cmake-build-debug/CMakeFiles/CPE10425_UVA10222.dir
+D:/code-preview/CPE C++/CPE10425-UVA10222/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code-preview/CPE C++/CPE10425-UVA10222/cmake-build-debug/CMakeFiles/rebuild_cache.dir
