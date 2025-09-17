@@ -1,0 +1,3 @@
+D:/code-preview/CPE C++/Training-CPE-problem/CPE10431-UVA10268/cmake-build-debug/CMakeFiles/CPE10431_UVA10268.dir
+D:/code-preview/CPE C++/Training-CPE-problem/CPE10431-UVA10268/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code-preview/CPE C++/Training-CPE-problem/CPE10431-UVA10268/cmake-build-debug/CMakeFiles/rebuild_cache.dir
