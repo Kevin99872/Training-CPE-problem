@@ -1,3 +1,4 @@
+//All You Need is love!(CPE10421-UVA10193)
 #include <iostream>
 using namespace std;
 char S1[31],S2[31];
